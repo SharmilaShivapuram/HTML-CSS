@@ -1,0 +1,78 @@
+.heading {
+    color: whitesmoke;
+    background-color: brown;
+    text-align: center;
+}
+
+.heading1 {
+    text-align: center;
+    font-size: 28px;
+}
+
+.hr {
+    border: 3px solid green;
+    width: 4%
+}
+
+.one {
+    display: flex;
+}
+
+.b {
+    margin-left: 6%;
+    margin-top: 2%;
+}
+
+.l {
+    margin-left: 27%;
+    margin-top: 2%;
+}
+
+.d {
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.br {
+    text-decoration-line: underline;
+    text-decoration-color: green;
+}
+
+.image {
+    width: 80px;
+    height: 80px;
+}
+
+.menu {
+    display: flex;
+}
+
+.breakfast {
+    margin: 20px 0px 20px 120px;
+    width: 500px;
+}
+
+.item {
+    display: flex;
+    margin : 10px 0px;
+    width: 300px;
+}
+
+.price {
+    margin: 20px;
+    color: brown;
+}
+.itemdesc{
+    width: 100px;
+    padding: 4%;
+}
+.itemimg{
+    margin: 3px 16px 3px 4px;
+}
+.itemtype{
+    font-weight: bold;
+}
+.description{
+    border-top: 0cqh;
+
+}
